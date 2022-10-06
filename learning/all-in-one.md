@@ -4,9 +4,7 @@
 **NB:** Per qualsiasi chiarimento o se avete idee / materiale utile da aggiungere, contattare un Daimyō o un Tennō su Slack
 {% endhint %}
 
-**MEDIA UTILS & LEARNING** 💻\
-
-
+**MEDIA UTILS & LEARNING** 💻
 
 <details>
 
@@ -51,30 +49,26 @@
 * [https://twitter.com/WolvesDAO](https://twitter.com/WolvesDAO)
 * [https://twitter.com/BanklessHQ](https://twitter.com/BanklessHQ)
 * [https://twitter.com/GiancarloChaux](https://twitter.com/GiancarloChaux)
-* [https://twitter.com/treasure\_dao](https://twitter.com/treasure\_dao)\
-
+* [https://twitter.com/treasure\_dao](https://twitter.com/treasure\_dao)\\
 
 </details>
 
-**HOW TO CHECK AN NFT PROJECT AND FIND RED FLAGS: AVOID SCAMS**\
-
-
+**HOW TO CHECK AN NFT PROJECT AND FIND RED FLAGS: AVOID SCAMS**\\
 
 ### **1. TWITTER ACCOUNT**
 
 {% hint style="info" %}
-#### When was the account created? Go to [https://foller.me/](https://foller.me) and enter the Twitter handle of the account.
+**When was the account created? Go to** [**https://foller.me/**](https://foller.me) **and enter the Twitter handle of the account.**
 
 \-> The account was created less than a month before the mint date 🚩
 
 \-> The account was created way too long ago and the number of tweets is huge: possible that the account was used for different purposes 🚩
 
-\-> The account was created two months to a couple of months before the mint date \
-
+\-> The account was created two months to a couple of months before the mint date \\
 {% endhint %}
 
 {% hint style="info" %}
-#### Twitter followers analysis
+**Twitter followers analysis**
 
 Go to [https://www.followeraudit.com/](https://www.followeraudit.com) or [https://www.twitteraudit.com/](https://www.twitteraudit.com) and enter the Twitter handle of the account
 
@@ -86,7 +80,7 @@ Go to [https://www.followeraudit.com/](https://www.followeraudit.com) or [https:
 {% endhint %}
 
 {% hint style="info" %}
-#### Tweets analysis
+**Tweets analysis**
 
 \-> The number of followers is huge compared to the number of reactions (likes, retweets, comments) 🚩
 
@@ -94,14 +88,13 @@ Go to [https://www.followeraudit.com/](https://www.followeraudit.com) or [https:
 
 \-> The tweets have a good amount of reactions (about 25% of followers are reacting) ✅
 
-\-> The tweets are instructive, descriptive, and pointing at why you should look at their vision ✅\
-
+\-> The tweets are instructive, descriptive, and pointing at why you should look at their vision ✅\\
 {% endhint %}
 
 ### **2. Website**
 
 {% hint style="info" %}
-#### Does the website exist?
+**Does the website exist?**
 
 \-> No 🚩
 
@@ -109,15 +102,15 @@ Go to [https://www.followeraudit.com/](https://www.followeraudit.com) or [https:
 {% endhint %}
 
 {% hint style="info" %}
-#### Website design analysis
+**Website design analysis**
 
-\-> The design is really bad  🚩
+\-> The design is really bad 🚩
 
-\-> The design feels like a template  🚩
+\-> The design feels like a template 🚩
 
-\-> The design feels buggy, performance feels off  🚩
+\-> The design feels buggy, performance feels off 🚩
 
-\-> The website is not responsive at all (mobile or desktop)  🚩
+\-> The website is not responsive at all (mobile or desktop) 🚩
 
 \-> The design is original, simple, and clean ✅
 
@@ -125,7 +118,7 @@ Go to [https://www.followeraudit.com/](https://www.followeraudit.com) or [https:
 {% endhint %}
 
 {% hint style="info" %}
-#### Website content analysis
+**Website content analysis**
 
 \-> The content is just images and promises 🚩
 
@@ -151,7 +144,7 @@ Go to [https://www.followeraudit.com/](https://www.followeraudit.com) or [https:
 ### **3. Discord**
 
 {% hint style="info" %}
-#### Structure
+**Structure**
 
 \-> Feels too simple and plain 🚩
 
@@ -169,7 +162,7 @@ Go to [https://www.followeraudit.com/](https://www.followeraudit.com) or [https:
 {% endhint %}
 
 {% hint style="info" %}
-#### Community
+**Community**
 
 \-> Chat is ultra hyped, cannot follow messages as there are way too many 🚩
 
@@ -219,7 +212,7 @@ Go to [https://www.followeraudit.com/](https://www.followeraudit.com) or [https:
 
 \-> The team is doxxed but their socials were created recently 🚩
 
-\-> The team is fully doxxed (You know exactly who they are)  ✅
+\-> The team is fully doxxed (You know exactly who they are) ✅
 
 \-> The team holds weekly or monthly AMA (ask me anything sessions) ✅
 
@@ -229,10 +222,10 @@ Go to [https://www.followeraudit.com/](https://www.followeraudit.com) or [https:
 
 \-> The team is open to vocal questions during AMAs ✅
 
-\-> The team is all about respect, transparency, communicative&#x20;
+\-> The team is all about respect, transparency, communicative
 {% endhint %}
 
-## **LESSONS** 🧠 ****&#x20;
+## **LESSONS** 🧠 \*\*\*\*
 
 * Do not overdiversify, make high conviction concentrated bets. 5-15 coins in a portfolio is ideal. Diversification preserves wealth, concentration builds wealth.
 * Size based on conviction (Big part of portfolio should consist of high conviction coin with higher market cap > low conviction coin with lower market cap)
