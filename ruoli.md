@@ -11,7 +11,7 @@ In ODA Clan ci sono 3 ruoli che fanno parte del team:
 * Daimyo LV.6
 * Ten’no LV.7
 
-Vogliamo specificare ed essere trasparenti sulle mansioni che questi ruoli ricoprono per permettere a tutti di auto valutarsi riconoscendo il proprio ruolo in base all'impegno dimostrato.
+Vogliamo specificare ed essere trasparenti sulle mansioni che questi ruoli ricoprono per permettere a tutti di auto valutarsi, riconoscendo il proprio ruolo in base all'impegno dimostrato.
 
 Un concetto importante all'interno di ODA è la **meritocrazia**; si vuole premiare chi si impegna con costanza, chi porta valore aggiunto e si distingue in termini di dedizione.
 
